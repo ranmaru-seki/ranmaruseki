@@ -1,0 +1,482 @@
+[06-Mar-2022 10:17:34 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:17:34 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:34 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:17:34 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:17:34 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:17:34 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:17:34 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:17:34 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:17:34 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:34 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:17:34 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:17:34 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:17:34 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:17:34 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:17:53 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:17:53 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:53 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:0
+[06-Mar-2022 10:17:53 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:10
+[06-Mar-2022 10:17:53 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:34
+[06-Mar-2022 10:17:53 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:17:53 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:17:53 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:17:53 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:17:53 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:53 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:0
+[06-Mar-2022 10:17:53 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:10
+[06-Mar-2022 10:17:53 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:34
+[06-Mar-2022 10:17:53 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:17:53 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:17:53 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:17:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/functions.php on line 6821
+[06-Mar-2022 10:17:53 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:53 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:0
+[06-Mar-2022 10:17:53 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:10
+[06-Mar-2022 10:17:53 UTC] PHP   3. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:175
+[06-Mar-2022 10:17:53 UTC] PHP   4. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:17:53 UTC] PHP   5. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:17:53 UTC] PHP   6. send_frame_options_header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:305
+[06-Mar-2022 10:17:53 UTC] PHP   7. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/functions.php:6821
+[06-Mar-2022 10:17:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/misc.php on line 1310
+[06-Mar-2022 10:17:53 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:53 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:0
+[06-Mar-2022 10:17:53 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:10
+[06-Mar-2022 10:17:53 UTC] PHP   3. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:175
+[06-Mar-2022 10:17:53 UTC] PHP   4. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:17:53 UTC] PHP   5. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:17:53 UTC] PHP   6. wp_admin_headers() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:17:53 UTC] PHP   7. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/misc.php:1310
+[06-Mar-2022 10:17:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-header.php on line 9
+[06-Mar-2022 10:17:53 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:53 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:0
+[06-Mar-2022 10:17:53 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:149
+[06-Mar-2022 10:17:53 UTC] PHP   3. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-header.php:9
+[06-Mar-2022 10:17:54 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:17:54 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:54 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:17:54 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:17:54 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:17:54 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:17:54 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:17:54 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:17:54 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:17:54 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:54 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:17:54 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:17:54 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:17:54 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:17:54 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:17:54 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:17:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1355
+[06-Mar-2022 10:17:54 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:54 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:17:54 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:17:54 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:17:54 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:17:54 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:17:54 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:17:54 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:17:54 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:17:54 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1355
+[06-Mar-2022 10:17:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1358
+[06-Mar-2022 10:17:54 UTC] PHP Stack trace:
+[06-Mar-2022 10:17:54 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:17:54 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:17:54 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:17:54 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:17:54 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:17:54 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:17:54 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:17:54 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:17:54 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1358
+[06-Mar-2022 10:18:00 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:00 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:00 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:00 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:00 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:00 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:00 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:00 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:00 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:00 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:00 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:00 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:00 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:00 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:00 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:00 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1355
+[06-Mar-2022 10:18:00 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:00 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:00 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:00 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:18:00 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:18:00 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:00 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:00 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:00 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:18:00 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1355
+[06-Mar-2022 10:18:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1358
+[06-Mar-2022 10:18:00 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:00 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:00 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:00 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:18:00 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:18:00 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:00 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:00 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:00 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:18:00 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1358
+[06-Mar-2022 10:18:01 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:0
+[06-Mar-2022 10:18:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:10
+[06-Mar-2022 10:18:01 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:34
+[06-Mar-2022 10:18:01 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:01 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:01 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:01 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:0
+[06-Mar-2022 10:18:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:10
+[06-Mar-2022 10:18:01 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:34
+[06-Mar-2022 10:18:01 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:01 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:01 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/functions.php on line 6821
+[06-Mar-2022 10:18:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:0
+[06-Mar-2022 10:18:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:10
+[06-Mar-2022 10:18:01 UTC] PHP   3. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:175
+[06-Mar-2022 10:18:01 UTC] PHP   4. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:01 UTC] PHP   5. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:01 UTC] PHP   6. send_frame_options_header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:305
+[06-Mar-2022 10:18:01 UTC] PHP   7. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/functions.php:6821
+[06-Mar-2022 10:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/misc.php on line 1310
+[06-Mar-2022 10:18:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:0
+[06-Mar-2022 10:18:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:10
+[06-Mar-2022 10:18:01 UTC] PHP   3. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:175
+[06-Mar-2022 10:18:01 UTC] PHP   4. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:01 UTC] PHP   5. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:01 UTC] PHP   6. wp_admin_headers() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:01 UTC] PHP   7. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/misc.php:1310
+[06-Mar-2022 10:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-header.php on line 9
+[06-Mar-2022 10:18:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:0
+[06-Mar-2022 10:18:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/themes.php:245
+[06-Mar-2022 10:18:01 UTC] PHP   3. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-header.php:9
+[06-Mar-2022 10:18:03 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:03 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:03 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:03 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:03 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:03 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:03 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:03 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:03 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:03 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:03 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:03 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:03 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:03 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:03 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:03 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1355
+[06-Mar-2022 10:18:03 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:03 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:03 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:03 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:18:03 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:18:03 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:03 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:03 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:03 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:18:03 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1355
+[06-Mar-2022 10:18:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1358
+[06-Mar-2022 10:18:03 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:03 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:03 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:03 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:18:03 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:18:03 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:03 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:03 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:03 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:18:03 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1358
+[06-Mar-2022 10:18:16 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:16 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:16 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:16 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:16 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:16 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:16 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:16 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:16 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:16 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:16 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:16 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:16 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:16 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:16 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:16 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:17 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:17 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:17 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:17 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:17 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:17 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:17 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:17 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:17 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:18:17 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:17 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:17 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:17 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 10:18:17 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:18:17 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:18:17 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:18:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1355
+[06-Mar-2022 10:18:17 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:17 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:17 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:17 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:18:17 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:18:17 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:17 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:17 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:17 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:18:17 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1355
+[06-Mar-2022 10:18:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:2) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php on line 1358
+[06-Mar-2022 10:18:17 UTC] PHP Stack trace:
+[06-Mar-2022 10:18:17 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 10:18:17 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 10:18:17 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:19
+[06-Mar-2022 10:18:17 UTC] PHP   4. do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/template-loader.php:13
+[06-Mar-2022 10:18:17 UTC] PHP   5. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:474
+[06-Mar-2022 10:18:17 UTC] PHP   6. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[06-Mar-2022 10:18:17 UTC] PHP   7. redirect_canonical() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[06-Mar-2022 10:18:17 UTC] PHP   8. wp_redirect() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/canonical.php:799
+[06-Mar-2022 10:18:17 UTC] PHP   9. header() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/pluggable.php:1358
+[06-Mar-2022 10:19:05 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:19:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:19:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:19:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:19:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:19:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:19:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:19:05 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:19:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:19:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:19:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:19:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:19:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:19:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:19:05 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:19:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:19:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[06-Mar-2022 10:19:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:44
+[06-Mar-2022 10:19:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:19:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:19:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:19:05 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:19:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:19:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[06-Mar-2022 10:19:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:44
+[06-Mar-2022 10:19:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:19:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:19:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:20:05 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:20:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:20:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:20:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:20:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:20:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:20:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:20:05 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:20:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:20:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:20:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:20:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:20:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:20:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:21:05 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:21:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:21:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:21:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:21:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:21:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:21:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:21:05 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:21:05 UTC] PHP Stack trace:
+[06-Mar-2022 10:21:05 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:21:05 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:21:05 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:21:05 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:21:05 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:23:00 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:23:00 UTC] PHP Stack trace:
+[06-Mar-2022 10:23:00 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:23:00 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:23:00 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:23:00 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:23:00 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:23:00 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:23:00 UTC] PHP Stack trace:
+[06-Mar-2022 10:23:00 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:23:00 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:23:00 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:23:00 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:23:00 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:24:01 UTC] PHP Warning:  Use of undefined constant ‘wp_enqueue_scripts’ - assumed '‘wp_enqueue_scripts’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:24:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:24:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:24:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:24:01 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:24:01 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:24:01 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 10:24:01 UTC] PHP Warning:  Use of undefined constant ‘theme_enqueue_styles’ - assumed '‘theme_enqueue_styles’' (this will throw an Error in a future version of PHP) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php on line 2
+[06-Mar-2022 10:24:01 UTC] PHP Stack trace:
+[06-Mar-2022 10:24:01 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 10:24:01 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 10:24:01 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 10:24:01 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 10:24:01 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:50:40 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:7) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:50:40 UTC] PHP Stack trace:
+[06-Mar-2022 11:50:40 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 11:50:40 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 11:50:40 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:50:40 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:50:40 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:50:48 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:7) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:50:48 UTC] PHP Stack trace:
+[06-Mar-2022 11:50:48 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:0
+[06-Mar-2022 11:50:48 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/theme-editor.php:10
+[06-Mar-2022 11:50:48 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin.php:34
+[06-Mar-2022 11:50:48 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:50:48 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:50:48 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:50:49 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:7) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:50:49 UTC] PHP Stack trace:
+[06-Mar-2022 11:50:49 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 11:50:49 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 11:50:49 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 11:50:49 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:50:49 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:50:49 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:54:40 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:9) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:54:40 UTC] PHP Stack trace:
+[06-Mar-2022 11:54:40 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 11:54:40 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 11:54:40 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 11:54:40 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:54:40 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:54:40 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:54:40 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:9) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:54:40 UTC] PHP Stack trace:
+[06-Mar-2022 11:54:40 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:0
+[06-Mar-2022 11:54:40 UTC] PHP   2. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/admin-ajax.php:22
+[06-Mar-2022 11:54:40 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:54:40 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:54:40 UTC] PHP   5. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:54:40 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:9) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:54:40 UTC] PHP Stack trace:
+[06-Mar-2022 11:54:40 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 11:54:40 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 11:54:40 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 11:54:40 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:54:40 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:54:40 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:54:51 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:9) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:54:51 UTC] PHP Stack trace:
+[06-Mar-2022 11:54:51 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 11:54:51 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 11:54:51 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 11:54:51 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:54:51 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:54:51 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[06-Mar-2022 11:54:51 UTC] PHP Fatal error:  Cannot redeclare twenty_twenty_one_nav_menu_social_icons() (previously declared in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/functions.php:9) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone/inc/menu-functions.php on line 65
+[06-Mar-2022 11:54:51 UTC] PHP Stack trace:
+[06-Mar-2022 11:54:51 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:0
+[06-Mar-2022 11:54:51 UTC] PHP   2. require() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/index.php:17
+[06-Mar-2022 11:54:51 UTC] PHP   3. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-blog-header.php:13
+[06-Mar-2022 11:54:51 UTC] PHP   4. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-load.php:50
+[06-Mar-2022 11:54:51 UTC] PHP   5. require_once() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-config.php:77
+[06-Mar-2022 11:54:51 UTC] PHP   6. include() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-settings.php:555
+[21-Mar-2022 14:22:21 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/header.php on line 22
+[21-Mar-2022 14:22:25 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-content/themes/twentytwentyone-child/header.php on line 22
+[22-May-2022 06:29:02 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php on line 175
+[22-May-2022 06:29:02 UTC] PHP Stack trace:
+[22-May-2022 06:29:02 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[22-May-2022 06:29:02 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[22-May-2022 06:29:02 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:522
+[22-May-2022 06:29:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[22-May-2022 06:29:02 UTC] PHP   5. wp_version_check() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[22-May-2022 06:29:02 UTC] PHP   6. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php:175
+[22-May-2022 06:29:02 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php on line 413
+[22-May-2022 06:29:02 UTC] PHP Stack trace:
+[22-May-2022 06:29:02 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[22-May-2022 06:29:02 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[22-May-2022 06:29:02 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:522
+[22-May-2022 06:29:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[22-May-2022 06:29:02 UTC] PHP   5. wp_update_plugins() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[22-May-2022 06:29:02 UTC] PHP   6. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php:413
+[22-May-2022 06:29:02 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php on line 693
+[22-May-2022 06:29:02 UTC] PHP Stack trace:
+[22-May-2022 06:29:02 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[22-May-2022 06:29:02 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[22-May-2022 06:29:02 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:522
+[22-May-2022 06:29:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[22-May-2022 06:29:02 UTC] PHP   5. wp_update_themes() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[22-May-2022 06:29:02 UTC] PHP   6. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php:693
+[22-May-2022 06:29:02 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/update.php on line 143
+[22-May-2022 06:29:02 UTC] PHP Stack trace:
+[22-May-2022 06:29:02 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[22-May-2022 06:29:02 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[22-May-2022 06:29:02 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:522
+[22-May-2022 06:29:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[22-May-2022 06:29:02 UTC] PHP   5. WP_Site_Health->wp_cron_scheduled_check() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[22-May-2022 06:29:02 UTC] PHP   6. WP_Site_Health->perform_test() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health.php:2781
+[22-May-2022 06:29:02 UTC] PHP   7. WP_Site_Health->get_test_background_updates() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health.php:192
+[22-May-2022 06:29:02 UTC] PHP   8. WP_Site_Health_Auto_Updates->run_tests() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health.php:1806
+[22-May-2022 06:29:02 UTC] PHP   9. WP_Site_Health_Auto_Updates->test_all_files_writable() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:37
+[22-May-2022 06:29:02 UTC] PHP  10. get_core_checksums() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:332
+[22-May-2022 06:29:02 UTC] PHP  11. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/update.php:143
+[18-Jul-2022 04:32:57 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php on line 172
+[18-Jul-2022 04:32:57 UTC] PHP Stack trace:
+[18-Jul-2022 04:32:57 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[18-Jul-2022 04:32:57 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[18-Jul-2022 04:32:57 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:524
+[18-Jul-2022 04:32:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[18-Jul-2022 04:32:57 UTC] PHP   5. wp_version_check() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[18-Jul-2022 04:32:57 UTC] PHP   6. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php:172
+[18-Jul-2022 04:32:57 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php on line 410
+[18-Jul-2022 04:32:57 UTC] PHP Stack trace:
+[18-Jul-2022 04:32:57 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[18-Jul-2022 04:32:57 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[18-Jul-2022 04:32:57 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:524
+[18-Jul-2022 04:32:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[18-Jul-2022 04:32:57 UTC] PHP   5. wp_update_plugins() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[18-Jul-2022 04:32:57 UTC] PHP   6. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php:410
+[18-Jul-2022 04:32:57 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php on line 690
+[18-Jul-2022 04:32:57 UTC] PHP Stack trace:
+[18-Jul-2022 04:32:57 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[18-Jul-2022 04:32:57 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[18-Jul-2022 04:32:57 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:524
+[18-Jul-2022 04:32:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[18-Jul-2022 04:32:57 UTC] PHP   5. wp_update_themes() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[18-Jul-2022 04:32:57 UTC] PHP   6. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/update.php:690
+[18-Jul-2022 04:32:57 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/update.php on line 143
+[18-Jul-2022 04:32:57 UTC] PHP Stack trace:
+[18-Jul-2022 04:32:57 UTC] PHP   1. {main}() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:0
+[18-Jul-2022 04:32:57 UTC] PHP   2. do_action_ref_array() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-cron.php:138
+[18-Jul-2022 04:32:57 UTC] PHP   3. WP_Hook->do_action() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/plugin.php:524
+[18-Jul-2022 04:32:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:331
+[18-Jul-2022 04:32:57 UTC] PHP   5. WP_Site_Health->wp_cron_scheduled_check() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-includes/class-wp-hook.php:307
+[18-Jul-2022 04:32:57 UTC] PHP   6. WP_Site_Health->perform_test() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health.php:2787
+[18-Jul-2022 04:32:57 UTC] PHP   7. WP_Site_Health->get_test_background_updates() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health.php:192
+[18-Jul-2022 04:32:57 UTC] PHP   8. WP_Site_Health_Auto_Updates->run_tests() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health.php:1812
+[18-Jul-2022 04:32:57 UTC] PHP   9. WP_Site_Health_Auto_Updates->test_all_files_writable() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:37
+[18-Jul-2022 04:32:57 UTC] PHP  10. get_core_checksums() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:332
+[18-Jul-2022 04:32:57 UTC] PHP  11. trigger_error() /Users/macbookair/Local Sites/ranmarusekilocal/app/public/wp-admin/includes/update.php:143
