@@ -1283,12 +1283,30 @@ p {
 	visibility: visible;
 }
 /*モーダル枠の指定*/
-.modal-body{
-	position: relative;
-	display: inline-block;
-	vertical-align: middle;
-	max-width: 500px;
-	width: 90%;
+@media only screen and (min-width: 769px) {
+	.modal-body{
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		max-width: 800px;
+		width: 90%;
+	}
+	.favorite_modal_text {
+		font-size: 15px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.modal-body{
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		max-width: 500px;
+		width: 90%;
+	}
+	.favorite_modal_text {
+		font-size: 10px;
+	}
 }
 /*モーダルを閉じるボタンの指定*/
 .modal-close{
