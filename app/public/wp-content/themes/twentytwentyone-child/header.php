@@ -254,22 +254,22 @@
 
       // TOP画像画面遷移
       $('.image-top-about').on("click", function() {
-        location.href= "http://ranmarusekilocal.local/?page_id=7";
+        location.href= document.URL + "/?page_id=7";
       });
       $('image-top-10').on("click", function() {
-        location.href= "http://ranmarusekilocal.local/?page_id=0102";
+        location.href= document.URL + "/?page_id=70";
       });
       $('.image-top-history').on("click", function() {
-        location.href= "http://ranmarusekilocal.local/?page_id=105";
+        location.href= document.URL + "/?page_id=72";
       });
       $('.image-top-contact').on("click", function() {
-        location.href= "http://ranmarusekilocal.local/?page_id=8";
+        location.href= document.URL + "/?page_id=8";
       });
       $('.image-top-skill').on("click", function() {
-        location.href= "http://ranmarusekilocal.local/?page_id=110";
+        location.href= document.URL + "/?page_id=68";
       });
       $('.image-top-work').on("click", function() {
-        location.href= "http://ranmarusekilocal.local/?page_id=108";
+        location.href= document.URL + "/?page_id=66";
       });
       jQuery(window).scroll(function(){
         const ua = navigator.userAgent;
