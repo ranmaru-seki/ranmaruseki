@@ -1,0 +1,25 @@
+# 除外されるディレクトリ
+/wp-admin/
+/wp-content/index.php
+/wp-content/languages
+/wp-content/plugins/
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+wp-config.php
+/wp-content/uploads/
+*.log
+/.htaccess
+
+# 読み込ませるディレクトリ
+/*
+!.gitignore
+!wp-content/
+wp-content/*
+!wp-content/plugins/
+!wp-content/themes/
+wp-content/plugins/*
+wp-content/themes/*
