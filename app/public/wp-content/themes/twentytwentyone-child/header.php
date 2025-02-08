@@ -254,22 +254,28 @@
 
       // TOP画像画面遷移
       $('.image-top-about').on("click", function() {
-        location.href= document.URL + "/?page_id=7";
+				console.log("クリック");
+        location.href= document.URL + "/about";
       });
-      $('image-top-10').on("click", function() {
-        location.href= document.URL + "/?page_id=70";
+      $('.image-top-10').on("click", function() {
+				console.log("クリック");
+        location.href= document.URL + "/favorite13";
       });
       $('.image-top-history').on("click", function() {
-        location.href= document.URL + "/?page_id=72";
+				console.log("クリック");
+        location.href= document.URL + "/history";
       });
       $('.image-top-contact').on("click", function() {
-        location.href= document.URL + "/?page_id=8";
+				console.log("クリック");
+        location.href= document.URL + "/?contact";
       });
       $('.image-top-skill').on("click", function() {
-        location.href= document.URL + "/?page_id=68";
+				console.log("クリック");
+        location.href= document.URL + "/skills";
       });
       $('.image-top-work').on("click", function() {
-        location.href= document.URL + "/?page_id=66";
+				console.log("クリック");
+        location.href= document.URL + "/work";
       });
       jQuery(window).scroll(function(){
         const ua = navigator.userAgent;
@@ -278,12 +284,15 @@
           var obj_history = jQuery('.sp-scroll-history').offset().top;
           var obj_skill = jQuery('.sp-scroll-skill').offset().top;
           var scr_count = jQuery(document).scrollTop();
-          if(scr_count > obj_about - 40){ // スクロール量が、指定した要素の位置を超えたら発火
+					console.log(obj_about);
+					console.log(obj_history);
+					console.log(obj_skill);
+          if(scr_count > obj_about - 100){ // スクロール量が、指定した要素の位置を超えたら発火
              jQuery('.image-top-about-write-wrap').fadeIn(300);
           }else{
              jQuery('.image-top-about-write-wrap').fadeOut(300);
           }
-          if(scr_count > obj_history - 200){ // スクロール量が、指定した要素の位置を超えたら発火
+          if(scr_count > obj_history - 150){ // スクロール量が、指定した要素の位置を超えたら発火
              jQuery('.image-top-history-write-wrap').fadeIn(300);
           }else{
              jQuery('.image-top-history-write-wrap').fadeOut(300);

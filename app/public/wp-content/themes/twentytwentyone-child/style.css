@@ -580,8 +580,12 @@ Template: twentytwentyone
 	}
 
 	/* favorite13 */
-	.f13-main-wrapper {
+	.f13-main-wrapper-pc {
 		margin-top: 80px!important;
+		display: block;
+	}
+	.f13-main-wrapper-sp {
+		display: none;
 	}
 	.f13-image {
 		max-width: 100%;
@@ -741,10 +745,10 @@ p {
 
 
 
-/* スマホ指定 */
+/* SP Start */
 @media only screen and (max-width: 481px) {
 	.site-header:not(.has-logo).has-title-and-tagline .site-branding {
-		margin-left: 15px;
+		margin-left: 20px;
 		max-width: 100%;
 	}
 	.site-title a:link,
@@ -1187,6 +1191,23 @@ p {
 		color: #dc3232;
 		font-size: 14px;
 	}
+
+	/* Favorite 13 SP */
+	.f13-main-wrapper-pc {
+		display: none;
+	}
+	.f13-main-wrapper-sp {
+		display: block;
+	}
+	.f13-image.f13-3-right-image.baseball {
+		text-align: center;
+	}
+	.f13-main-wrapper-sp img {
+		margin-bottom: 30px;
+	}
+	.f13-image.f13-2-image.favo13 {
+		margin-left: 22px;
+	}
 }
 /* SP-END */
 
@@ -1291,8 +1312,11 @@ p {
 		max-width: 800px;
 		width: 90%;
 	}
+	.favorite_modal_textTitle {
+		font-size: 18px;
+	}
 	.favorite_modal_text {
-		font-size: 15px;
+		font-size: 14px;
 	}
 }
 
@@ -1303,6 +1327,9 @@ p {
 		vertical-align: middle;
 		max-width: 500px;
 		width: 90%;
+	}
+	.favorite_modal_textTitle {
+		font-size: 13px;
 	}
 	.favorite_modal_text {
 		font-size: 10px;
