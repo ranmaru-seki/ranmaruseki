@@ -13,6 +13,7 @@ wp-config.php
 /wp-content/uploads/
 *.log
 /.htaccess
+logs/php/error.log
 
 # 読み込ませるディレクトリ
 /*
@@ -23,4 +24,3 @@ wp-content/*
 !wp-content/themes/
 wp-content/plugins/*
 wp-content/themes/*
-logs/php/error.log
