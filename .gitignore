@@ -24,3 +24,4 @@ wp-content/*
 !wp-content/themes/
 wp-content/plugins/*
 wp-content/themes/*
+*.log
